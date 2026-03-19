@@ -15,3 +15,5 @@ Tecnologias Utilizadas:
 Linguagem: Python 3.
 
 Módulos: random, time e PyInstaller.
+
+Link para download: https://github.com/Meiz0n/Jogo-da-Forca-em-Python/raw/refs/heads/main/forca.exe
