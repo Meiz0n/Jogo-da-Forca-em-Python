@@ -22,7 +22,7 @@ while True:
         
         #Chegem se entrada é letra
         while True:
-            busca = input("Digite uma letra para advinhar: ").upper().strip()
+            busca = input("Digite uma letra: ").upper().strip()
             if len(busca) == 1 and busca.isalpha():
                 break
             print('Erro, digite apenas UMA LETRA.')
